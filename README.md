@@ -1,2 +1,3 @@
 # Final-Destination-but-Girlfriend-helps-you
-welcome! you are in the github for the mod!
+
+Leather engine mod(ification). Final Destination, **but Girlfriend helps you.**
